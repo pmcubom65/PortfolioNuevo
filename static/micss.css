@@ -1,0 +1,17 @@
+.miimagen img {
+   display: block;
+   margin-right: auto;
+    margin-left: auto;
+    width: 40%; 
+}
+
+#miiframe iframe {
+    margin-left: 100px;
+}
+
+img.imagenes {
+    width: 100%;
+    height: 320px;
+}
+
+
