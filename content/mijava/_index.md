@@ -1,5 +1,5 @@
 ---
-title: Portal de Empleo realizado en Laravel
+title: Juego realizado en Java y JavaFX
 description: 'Portfolio Section'
 ---
 
