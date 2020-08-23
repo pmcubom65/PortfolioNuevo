@@ -8,8 +8,6 @@ thumbnail: sample-project/inicio2.jpg
 projectUrl: https://www.sampleorganization.org
 
 ---
-[Probar la aplicación (apk instalable)](/app-debugPedroManuelCubo.apk)
-
 
 El videojuego consta de 2 minijuegos. Comienza con un menú inicial compuesto de dos fragmentos donde podemos elegir el juego y la dificultad:
 
