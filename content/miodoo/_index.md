@@ -39,3 +39,6 @@ Este programa está realizado en python utilizando base de datos ORM:
 
 {{< figure src="sample-project/modelo1.PNG"  caption="Modelo" alt="proyecto odoo" >}}
 {{< figure src="sample-project/modelo2.PNG"  caption="Modelo" alt="proyecto odoo" >}}
+
+
+[Código](https://github.com/pmcubom65/OdooAutoescuela.git)

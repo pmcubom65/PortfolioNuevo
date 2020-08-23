@@ -5,6 +5,8 @@ description: 'Portfolio Section'
 
 ### Juego realizado en Java y JavaFX
 
+[Probar la aplicación (Jar ejecutable)](/PedroManuelCuboMedina.jar)
+
 Cada jugador tiene 5 números del 1 al 10. Cada jugador tiene que acertar los 5 números del rival para ganar la partida.
 
 La pantalla inicial solicita el login:
@@ -31,3 +33,6 @@ Final de la partida:
 {{< figure src="sample-project/final.PNG" caption="Final de la partida" alt="proyecto java" >}}
 
 {{< figure src="sample-project/final2.PNG" caption="Final de la partida" alt="proyecto java" >}}
+
+
+[Código](https://github.com/pmcubom65/PortfolioJava.git)

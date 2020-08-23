@@ -1,9 +1,10 @@
 ---
-title: Portal de Empleo realizado en Laravel
+title: Portal de Empleo realizado en Laravel y Vue
 description: 'Portfolio Section'
 ---
 
-### Portal de Empleo realizado en Laravel
+
+[Probar la aplicación](https://pedro-manuel-cubo-laravelvue.herokuapp.com/)
 
 Esta es la pantalla principal. En la barra de navegación podemos registrarnos en el portal o hacer login:
 
@@ -51,3 +52,7 @@ Seleccionar candidatos:
 Cita de la entrevista:
 
 {{< figure src="sample-project/localizacion.PNG" caption="Contactar Candidato" alt="proyecto laravel" >}}
+
+
+
+[Código sin claves](https://github.com/pmcubom65/LaravelPortalDeEmpleo.git)
