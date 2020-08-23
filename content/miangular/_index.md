@@ -39,4 +39,4 @@ Finalmente, podemos completar el pago por Paypal:
 
 
 
-[Código sin claves](https://github.com/pmcubom65/fiestasenmurcia.git)
+[Código sin claves](https://www.dropbox.com/s/q0xvxol7ae7hx7a/fiestasenmurcia-master.zip?dl=0)
