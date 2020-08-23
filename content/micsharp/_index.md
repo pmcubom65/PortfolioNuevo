@@ -22,6 +22,3 @@ Generación de reports personalizados a partir de la BBDD utilizando datasets:
 {{< figure src="sample-project/reportalumnos.PNG" caption="Report" alt="Proyecto C#" >}}
 
 {{< figure src="sample-project/report2.PNG" caption="Report" alt="Proyecto C#" >}}
-
-
-[Código](https://github.com/pmcubom65/GestionAlumnosCSharp.git)
