@@ -14,7 +14,7 @@ img.imagenes {
     height: 320px;
 }
 
-@media only screen and (max-with: 900px) {
+@media only screen and (max-width: 900px) {
      img.imagenes {
     height: auto !important;
 }
