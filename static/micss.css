@@ -8,7 +8,7 @@
 #miiframe iframe {
     margin-left: 100px;
        @media (max-with: 900px) {
-        margin-left: -40px;
+        margin-left: -80px;
     }
 }
 
@@ -17,7 +17,7 @@ img.imagenes {
     height: 320px;
    
        @media (max-with: 900px) {
-        height: 200px;
+        height: 180px;
         width: 100%;
     }
 }
