@@ -7,11 +7,19 @@
 
 #miiframe iframe {
     margin-left: 100px;
+       @media (max-with: 900px) {
+        margin-left: 10px;
+    }
 }
 
 img.imagenes {
     width: 100%;
     height: 320px;
+   
+       @media (max-with: 900px) {
+        height: auto;
+        width: 100%;
+    }
 }
 
 body{
