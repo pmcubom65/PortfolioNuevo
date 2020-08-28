@@ -18,7 +18,7 @@ img.imagenes {
    
        @media (max-with: 900px) {
         height: auto;
-        width: 100%;
+        width: 80%;
     }
 }
 
