@@ -16,11 +16,11 @@ img.imagenes {
 
 @media (max-with: 900px) {
      img.imagenes {
-    height: auto;
+    height: auto !important;
 }
    
    #miiframe iframe {
-            margin-left: 10px;
+            margin-left: 10px !important;
    }
     }
 
