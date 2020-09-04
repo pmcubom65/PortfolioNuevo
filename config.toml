@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hola soy Pedro :wave:"
-  sub = "Esta es mi página personal"
+  sub = "Programador de Aplicaciones"
 
 [taxonomies]
   design = "designs"
@@ -40,7 +40,7 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = "/images/default-sidebar.jpg" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = "/images/foto.jpg" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "/images/mifoto.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
