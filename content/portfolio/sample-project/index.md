@@ -66,6 +66,6 @@ La opción de marcadores comienza con un diálogo donde nos pregunta si queremos
  alt="pantallas del juego"   caption="Notificación"   >}}
 
 
-[Código](https://www.dropbox.com/s/z13raw9gnyv0dd8/AndroidGameBolitas-master.zip?dl=0)
+[Código](https://www.dropbox.com/s/gtfygi2p700l9dl/AndroidGameBolitas-master.rar?dl=0)
 
 
