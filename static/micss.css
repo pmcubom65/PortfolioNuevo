@@ -5,6 +5,15 @@
     width: 40%; 
 }
 
+
+
+.socials {
+    margin-top: 90px;
+    margin-left: 10px;
+    border-left-width: 10px;
+    padding-left: 75px;
+}
+
 #miiframe iframe {
     margin-left: 100px;
  }
