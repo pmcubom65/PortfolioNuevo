@@ -4,7 +4,7 @@ description: 'Portfolio Section'
 ---
 
 
-[Probar la aplicación](https://pedro-manuel-cubo-laravelvue.herokuapp.com/)
+[Probar la aplicación (Utilizar Chrome)](https://pedro-manuel-cubo-laravelvue.herokuapp.com/)
 
 Esta es la pantalla principal. En la barra de navegación podemos registrarnos en el portal o hacer login:
 
