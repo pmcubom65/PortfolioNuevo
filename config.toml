@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Pedro Manuel Cubo Medina"
 theme = "personal-web"
 copyright="© Pedro Manuel"
+defaultContentLanguage = "es"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -12,6 +13,178 @@ pygmentsCodeFences=true
 [params.intro]
   main = "Hola soy Pedro :wave:"
   sub = "Programador de Aplicaciones"
+  miionic="/miionic"
+  miangular="/miangular"
+  micsharp="/micsharp"
+  mijava="/mijava"
+  miodoo="/miodoo"
+  miseccion="/miseccion"
+  miionict="Ionic y Vue: Aplicación para crear Recordatorios con Foto"
+  miangulart="Firebase y Angular: Compra de Entradas y Pago por Paypal"
+  misecciont="Proyecto realizado en Laravel y Vue"
+  mijavat="Proyecto realizado en Java"
+  micsharpt="Proyecto realizado en C#"
+  miodoot="Proyecto realizado en Odoo"
+  miandroid="Videojuego creado en Android"
+  mititular="Proyectos realizados"
+  leer="Leer más"
+
+
+[params.contact]
+  email = "pmcubom@zion.es"
+  text= "Contactarme por email" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "Sobre mí"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "Proyectos realizados"
+  title = "Portfolio"
+  url = "/portfolio/"
+  weight = -110
+
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Experiencia Laboral"
+  title = "Blog section"
+  url = "/post/"
+  weight = -100
+
+
+[languages]
+  [languages.es]
+    title = "Pedro Manuel Cubo Medina"
+    weight = 1
+    LanguageName="Español"
+    contentDir= "content/spanish"
+    
+
+  [languages.en]
+    title = "Pedro Manuel Cubo Medina"
+    weight = 2
+    LanguageName="English"
+    contentDir="content/english"
+
+    [languages.en.params.intro]
+      main = "Hello I'm Pedro :wave:"
+      sub = "Software developer"
+      miionic="/en/miionic"
+      miangular="/en/miangular"
+      micsharp="/en/micsharp"
+      mijava="/en/mijava"
+      miodoo="/en/miodoo"
+      miseccion="/en/miseccion"
+      miionict="Ionic and Vue: Application for collecting reminders with a picture"
+      miangulart="Firebase and Angular: Purchasing tickets and Paypal payment"
+      misecciont="Project in Laravel and Vue: Employment Website"
+      mijavat="Project developed in Java"
+      micsharpt="Project developed in C#"
+      miodoot="Project developed in Odoo"
+      miandroid="Android Game"
+      mititular="Academic projects"
+      leer="Read more"
+
+
+
+
+    [languages.en.params.contact]
+      email = "pmcubom@zion.es"
+      text= "Send me an email"
+
+[[languages.en.menu.main]]
+  identifier = "about"
+  name = "About me"
+  title = "About section"
+  url = "/en/about/"
+  weight = -120
+
+[[languages.en.menu.main]]
+  identifier = "portfolio"
+  name = "Academic projects"
+  title = "Portfolio"
+  url = "/en/portfolio/"
+  weight = -110
+
+
+[[languages.en.menu.main]]
+  identifier = "blog"
+  name = "Labour Experience"
+  title = "Blog section"
+  url = "/en/post/"
+  weight = -100
+
+
+
+
+
+
+
+
+  [languages.pt-pt]
+    title = "Pedro Manuel Cubo Medina"
+    weight = 3
+    LanguageName="Português"
+    contentDir= "content/portugues"
+     [languages.pt-pt.params.intro]
+      main = "Olá Sou Pedro :wave:"
+      sub = "Desenvolvedor de Aplicações"
+      miionic="/pt-pt/miionic"
+      miangular="/pt-pt/miangular"
+      micsharp="/pt-pt/micsharp"
+      mijava="/pt-pt/mijava"
+      miodoo="/pt-pt/miodoo"
+      miseccion="/pt-pt/miseccion"
+      miionict="Ionic e Vue: Aplicação para fazer lembretes com foto"
+      miangulart="Firebase e Angular: Compra de ingressos y Pagamento com o Paypal"
+      misecciont="Projeto feito em Laravel e Vue"
+      mijavat="Projeto feito em Java"
+      micsharpt="Projeto feito em C#"
+      miodoot="Projeto feito em Odoo"
+      miandroid="Videogame feito em Android"
+      mititular="Projetos feitos"
+      leer="Lêr mais"
+
+
+
+
+
+          [languages.pt-pt.params.contact]
+  email = "pmcubom@zion.es"
+  text= "Manda-me um e-mail"
+
+
+[[languages.pt-pt.menu.main]]
+  identifier = "portfolio"
+  name = "Projetos feitos"
+  title = "Portfolio"
+  url = "/pt-pt/portfolio/"
+  weight = -110
+
+  [[languages.pt-pt.menu.main]]
+  identifier = "about"
+  name = "Sobre mim"
+  title = "About section"
+  url = "/pt-pt/about/"
+  weight = -120
+
+
+
+[[languages.pt-pt.menu.main]]
+  identifier = "blog"
+  name = "Experiência de trabalho"
+  title = "Blog section"
+  url = "/pt-pt/post/"
+  weight = -100
+
+
 
 [taxonomies]
   design = "designs"
@@ -59,34 +232,10 @@ pygmentsCodeFences=true
   gitlab = "https://gitlab.com/"
   keybase = "https://keybase.io/"
 
-[params.contact]
-  email = "pmcubom@zion.es"
-  text= "Contactarme por email" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
-[menu]
-
-[[menu.main]]
-  identifier = "about"
-  name = "Sobre mí"
-  title = "About section"
-  url = "/about/"
-  weight = -120
-
-[[menu.main]]
-  identifier = "portfolio"
-  name = "Proyectos realizados"
-  title = "Portfolio"
-  url = "/portfolio/"
-  weight = -110
 
 
-[[menu.main]]
-  identifier = "blog"
-  name = "Experiencia Laboral"
-  title = "Blog section"
-  url = "/post/"
-  weight = -100
 
 [sitemap]
   changefreq = "monthly"
