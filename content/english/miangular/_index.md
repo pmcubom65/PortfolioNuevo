@@ -26,7 +26,7 @@ Anytime an event is purchased, the shopping cart displays a new item added. Due 
 
 {{< figure src="sample-project/Captura7.PNG" caption="Purchasing cart" alt="angular"  class="animate__animated animate__fadeIn animate__delay-1s">}}
 
-When the purchase is confirmed, a purchase details is displayed:
+When the purchase is confirmed, purchase details is displayed:
 
 {{< figure src="sample-project/Captura5.PNG" caption="Purchasing cart" alt="angular"  class="animate__animated animate__fadeIn animate__delay-1s" >}}
 
