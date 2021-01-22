@@ -9,6 +9,8 @@ projectUrl: https://www.sampleorganization.org
 
 ---
 
+[Probar en PlayStore](https://play.google.com/store/apps/details?id=com.pedromanuel.juegopedromanuelcubomedina)
+
 El videojuego consta de 2 minijuegos. Comienza con un menú inicial compuesto de dos fragmentos donde podemos elegir el juego y la dificultad:
 
 {{< figure class="miimagen" src="menuinicial.jpg" caption="Menú inicial" alt="pantallas del juego"  
