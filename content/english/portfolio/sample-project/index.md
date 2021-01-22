@@ -8,6 +8,8 @@ thumbnail: sample-project/inicio2.jpg
 projectUrl: https://www.sampleorganization.org
 
 ---
+[Test on PlayStore](https://play.google.com/store/apps/details?id=com.pedromanuel.juegopedromanuelcubomedina)
+
 This game consists of 2 different games. The initial menu is compounded of 2 fragments where can be selected the type of game and level of dificulty:
 
 
