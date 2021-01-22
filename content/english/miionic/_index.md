@@ -5,7 +5,7 @@ description: 'Portfolio Section'
 
 ### Application for collecting reminders with a picture
 
-[Test in PlayStore](https://play.google.com/store/apps/details?id=com.pedromanuelcubo)
+[Test on PlayStore](https://play.google.com/store/apps/details?id=com.pedromanuelcubo)
 
 Application for collecting reminders with its picture.
 
