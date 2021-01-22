@@ -8,6 +8,7 @@ thumbnail: sample-project/inicio2.jpg
 projectUrl: https://www.sampleorganization.org
 
 ---
+[Testar em PlayStore](https://play.google.com/store/apps/details?id=com.pedromanuel.juegopedromanuelcubomedina)
 
 O jogo consta de 2 jogos. Começa com o menú inicial composto de 2 fragmentos onde podemos escolher o jogo e a dificuldade:
 
